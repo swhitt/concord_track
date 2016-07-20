@@ -1,0 +1,12 @@
+[Core]
+module = concord_track
+name = concord_track
+
+[Documentation]
+description = keep track of concord spawns in eve online, an internet spaceships game
+
+[Python]
+version = 3
+
+[Errbot]
+
